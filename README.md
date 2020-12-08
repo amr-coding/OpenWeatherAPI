@@ -1,2 +1,2 @@
 # OpenWeatherAPI
-Used OpenWeather API to get every country weather degree in celsius. 
+Used OpenWeather API to get any city's weather degree in celsius. 
